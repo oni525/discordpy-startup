@@ -24,7 +24,7 @@ async def neko(ctx):
 
     
 @bot.command()
-async def ひん；；(ctx):
+async def ひん(ctx):
     await ctx.send('よしよしヾ(・ω・｀)')
 
     
